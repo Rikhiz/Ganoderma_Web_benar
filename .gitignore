@@ -4,7 +4,6 @@
 !static/**
 __pycache__/
 *.pyc
-model/*.pt
 !model/.gitkeep
 input/*
 !input/.gitkeep
